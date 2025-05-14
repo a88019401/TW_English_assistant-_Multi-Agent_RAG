@@ -1,0 +1,602 @@
+[
+  {
+    "id": "q001",
+    "type": "english_test",
+    "question": "(　　)Paul ＿＿＿ basketball from Monday to Friday, and Kevin ＿＿＿ it on weekends.\n(A) practices; does\n(B) doesn’t practice; don’t do \n(C) practice; doesn’t do\n(D) don’t practice; does\n詳解：前後句的主詞都是第三人稱單數，而且由時間副詞可知，本句應使用表「習慣、事實」的現在簡單式。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q002",
+    "type": "english_test",
+    "question": "(　　)A：What ______ Mr. and Mrs. Wu do on weekends?\nB：They play badminton with friends.\n(A) do　(B) does　(C) can　(D) are\n詳解：Mr. and Mrs. Wu 為複數主詞，表常態性的情形時用現在簡單式，故問句的助動詞用 do。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q003",
+    "type": "english_test",
+    "question": "(　　)A：What do you want to do this summer vacation（暑假）?\nB：I want to go to my cousin’s place（地方）, but my sisters ＿＿＿.  They want to go to the USA.\n(A) do　(B) does　(C) don’t　(D) doesn’t\n詳解：but 連接前後語意相反的句子，所以前句是肯定，後句便是否定，my sisters 為複數主詞，故選 don’t。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q004",
+    "type": "english_test",
+    "question": "(　　)Wade ＿＿＿ dinner for his family and ＿＿＿ video games with his son on Friday evenings.  \n(A) cooks; plays\n(B) cook; play\n(C) doesn’t cook; play\n(D) cook; don’t play\n詳解：由時間副詞 on Friday evenings 可知用現在簡單式，表「現在的生活習慣」，主詞是第三人稱單數，因此動詞要做變化。其後接 and 連接兩個現在簡單式單數動詞，故答案為 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q005",
+    "type": "english_test",
+    "question": "(　　)A：Do you play video games?\nB：No, I ______ like video games.\n(A) can　(B) can’t　(C) do　(D) don’t\n詳解：用助動詞 do 問，須用助動詞 do 回答，yes 用 do，no 用 don’t。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q006",
+    "type": "english_test",
+    "question": "(　　)A：What does your sister ＿＿＿?  A teacher?\nB：No.  She is a doctor.\n(A) is　(B) be　(C) does　(D) do\n詳解：回答是位醫生，表示問職業，用「What do / does＋人＋do?」，句末的 do 當動詞用，因此用原形。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q007",
+    "type": "english_test",
+    "question": "(　　)A：＿＿＿ do Betty and her friends do ＿＿＿ Sunday mornings?\nB：Play tennis at the park.\n(A) How; in　(B) Where; in\n(C) What; on　(D) How much; on\n詳解：由問句的第二個 do 可知是問「做什麼」，疑問詞用 what。表示「在」每個星期天早上，介系詞用 on。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q008",
+    "type": "english_test",
+    "question": "(　　)A：Mr. Chen isn’t in the meeting room.  Where is he?\nB：He ＿＿＿ be in the restroom.\n(A) can　(B) must　(C) is　(D) not\n詳解：「must＋原形動詞」表示推測。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q009",
+    "type": "english_test",
+    "question": "(　　)A：These robots are cool.  ＿＿＿ are they?\nB：Sorry, they’re not for sale（非賣品）.\n(A) How big　(B) What color\n(C) How much　(D) Where\n詳解：由回覆說是非賣品，可知 A 詢問「多少錢」。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q010",
+    "type": "english_test",
+    "question": "(　　)My classmates and I play ＿＿＿ on Wednesdays after school.\n(A) a baseball　(B) the baseball\n(C) baseballs　(D) baseball\n詳解：「play＋球類名稱」表示「打／玩……球」，此用法中的球類名稱前不加 the；由於是不可數名詞，故不能加 a，也不用複數形。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q011",
+    "type": "english_test",
+    "question": "(　　)Emma ＿＿＿ goes to the doctor, and her sister doesn’t, either.\n(A) always  (B) seldom  (C) often  (D) usually\n詳解：由後句 either 可知，前句應為 Emma 很少看醫生，頻率副詞用 seldom。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q012",
+    "type": "english_test",
+    "question": "(　　)Irene never plays video games, but her brother often ＿＿＿.\n(A) is　(B) are　(C) does　(D) do\n詳解：主詞為第三人稱單數主詞，簡述時要用助動詞 does 代替前面的 plays video games。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q013",
+    "type": "english_test",
+    "question": "(　　)Karen ＿＿＿ badminton with her friends in the gym.\n(A) play sometimes　(B) sometimes play\n(C) sometimes plays　(D) plays sometimes\n詳解：頻率副詞須放在一般動詞前，且主詞為第三人稱單數，動詞要加 s。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q014",
+    "type": "english_test",
+    "question": "(　　)William changes his hairstyle（髮型）＿＿＿.\n(A) three months  (B) every months\n(C) every three month  (D) every three months\n詳解：「every＋數字＋months」表示「每隔幾個月」。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q015",
+    "type": "english_test",
+    "question": "(　　)Mary：Is Jennifer always happy?\nSean：No, ＿＿＿.\n(A) she always is　(B) she is always\n(C) she seldom is　(D) she is seldom\n詳解：簡答時頻率副詞要放在 be 動詞的前面；回答是 No，故選擇有否定含意的頻率副詞 seldom。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q016",
+    "type": "english_test",
+    "question": "(　　)Lucas ＿＿＿ papayas.  He doesn’t like them at all（一點也不）.\n(A) eats never　(B) never eats\n(C) eats always　(D) always eats\n詳解：頻率副詞須放在一般動詞前，由「一點也不喜歡木瓜」可推知從來不吃，頻率副詞用 never。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q017",
+    "type": "english_test",
+    "question": "(　　)Jack ＿＿＿ busy（忙碌的）at work.  He even（甚至）works on weekends.\n(A) is always　(B) always is\n(C) seldom is　(D) is seldom\n詳解：頻率副詞須放在 be 動詞後，由「甚至在週末工作」可推知「總是」很忙碌，頻率副詞用 always。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q018",
+    "type": "english_test",
+    "question": "(　　)Ken ＿＿＿ happy.  He makes（讓）his friends happy, too.\n(A) does always　(B) always does\n(C) always is　(D) is always\n詳解：happy 是形容詞，要用 be 動詞與主詞連接，且頻率副詞須放在 be 動詞後。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q019",
+    "type": "english_test",
+    "question": "(　　)Dan ＿＿＿ in public（公開地）.  In fact, he isn’t good at dancing.\n(A) never dance　(B) don’t dance\n(C) never dances　(D) dance\n詳解：由後句「他不擅長跳舞」，可推知 Dan 在公共場合「從不跳舞」；主詞為第三人稱單數，一般動詞須接 s，且頻率副詞須放在一般動詞前面。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q020",
+    "type": "english_test",
+    "question": "(　　)Kate and her husband are very different.  Kate ＿＿＿ talks, but her husband is very talkative（多話的）.\n(A) always　(B) often　(C) seldom　(D) usually\n詳解：but 連接前後語意相反的句子，由後句「她的先生很多話」，可推知 Kate「很少」說話，頻率副詞用 seldom。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q021",
+    "type": "english_test",
+    "question": "(　　)Meg：＿＿＿ do you wash the toilet?\nLiz：Every day.\n(A) How much　(B) How often\n(C) What　(D) What time\n詳解：詢問「頻率或次數」的疑問詞用 how often。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q022",
+    "type": "english_test",
+    "question": "(　　)Sam：＿＿＿ does Jenny go to the USA?\nJerry：Twice a year.\n(A) How　(B) How often\n(C) How much　(D) What day\n詳解：詢問「頻率或次數」的疑問詞用 how often。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q023",
+    "type": "english_test",
+    "question": "(　　)A：Is this Josh’s bike（腳踏車）?  B：No, it is ＿＿＿.\n(A) Josh  (B) Josh’s  (C) her  (D) Kevin’s\n詳解：由回答 No 可知，所有格代名詞應用 Kevin’s。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q024",
+    "type": "english_test",
+    "question": "(　　)A：The room is messy（混亂的）.  ＿＿＿ trash is it?\nB：It must be Jack’s.  He just（剛剛）had lunch here.\n(A) Whose　(B) What　(C) Who　(D) Who’s\n詳解：由 It must be Jack’s. 可知，疑問詞應用 Whose。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q025",
+    "type": "english_test",
+    "question": "(　　)A：What’s the date today?\nB：It’s ＿＿＿ September ＿＿＿.\n(A) ╳; ╳　(B) ╳; first　(C) on; the one　(D) on; the first\n詳解：回答今天日期，用「It is＋月分＋日（序數）.」或「It is the＋序數＋of＋月分.」，又表達今天的日期不需介系詞 on，故選 (B)。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q026",
+    "type": "english_test",
+    "question": "(　　)The ＿＿＿ month of the year is September, not October.\n(A) nine　(B) ninth　(C) nineteen　(D) nineteenth\n詳解：第九個月分以序數表示，故選 (B)。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q027",
+    "type": "english_test",
+    "question": "(　　)A：＿＿＿ is your sister’s birthday?\nB：It’s on February twentieth. \n(A) How　(B) What time  (C) When　(D) What day\n詳解：由答句「在二月二十日」可知，A 問「你妹妹的生日是什麼時候」，疑問詞用 When，故選 (C)。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q028",
+    "type": "english_test",
+    "question": "(　　)Let’s make a cake for Mom!  ＿＿＿, we need（需要）eggs and some oranges.\n(A) First  (B) Last　(C) Also　(D) Third\n詳解：要做蛋糕給媽媽，可知準備材料為「第一」步驟。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q029",
+    "type": "english_test",
+    "question": "(　　)Todd：Harry, ＿＿＿ is the meeting with Mr. Jones?  Is it at four thirty p.m.?\nHarry：Yes, but it’s on May 2nd, not today.\n(A) what date　(B) when  (C) how　(D) how much\n詳解：由「在下午四點半」可知，Todd 問和 Jones 先生的會議是在「何時」，故選 (B)。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q030",
+    "type": "english_test",
+    "question": "(　　)A：Do you have any books?\nB：Yes, but not ＿＿＿.\n(A) some　(B) much　(C) any　(D) many\n詳解：A 有書，但是不「多」，故用 many 修飾複數可數名詞 books。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q031",
+    "type": "english_test",
+    "question": "(　　)A：How ＿＿＿ people are there in a your family?\nB：Four.\n(A) do　(B) any　(C) many　(D) much\n詳解：person 為可數名詞，故用 How many 問有幾個家庭成員，故選 (C)。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q032",
+    "type": "english_test",
+    "question": "(　　)A：＿＿＿ juice do you need?\nB：I need six cans, please. \n(A) How much　(B) What　(C) How many　(D) Which\n詳解：juice 為不可數名詞，故選 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q033",
+    "type": "english_test",
+    "question": "(　　)A：How many ＿＿＿ do you need to make a cake? \nB：I need four.\n(A) eggs　(B) butter　(C) salt　(D) flour\n詳解：由疑問詞 how many 可知後面名詞為複數可數名詞，故選 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q034",
+    "type": "english_test",
+    "question": "(　　)A：How ＿＿＿ students are there in the school?\nB：There are 3,500 students.  It’s a big school.\n(A) old　(B) do　(C) many　(D) much\n詳解：students 為複數可數名詞，故詢問有多少人數須用 How many。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q035",
+    "type": "english_test",
+    "question": "(　　)A：How ＿＿＿ juice do you have?\nB：Two cans.\n(A) does　(B) is　(C) many　(D) much\n詳解：juice 為不可數名詞，故用 How much 來詢問有多少果汁，故選 (D)。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q036",
+    "type": "english_test",
+    "question": "(　　)Brian is hungry.  He wants an ＿＿＿, two cans of orange juice, and a lot of ＿＿＿.\n(A) egg; rice　(B) guava; noodles\n(C) egg; noodle　(D) guava; fish\n詳解：由第一格空格前的冠詞 an，可推測應填入字首為母音的單數可數名詞 egg；a lot of 之後可接可數名詞 noodles 或不可數名詞 rice、fish（表「魚肉」），故選 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q037",
+    "type": "english_test",
+    "question": "(　　)Mr. Chen ＿＿＿ on the school table tennis team before.\n(A) is　(B) was　(C) has　(D) have\n詳解：由 before 可知時態為過去式，be 動詞的過去式為 was，故選 (B)。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q038",
+    "type": "english_test",
+    "question": "(　　)Judy：Who studied with you in the library one hour ago?\nAlex：My classmate Kevin ＿＿＿.\n(A) was　(B) is　(C) does　(D) did\n詳解：由 Judy 問句中的過去式動詞 studied，可知為一個小時前發生的事，故用助動詞過去式 did 代替問句中的整個動作。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q039",
+    "type": "english_test",
+    "question": "(　　)Flora downloaded some songs and movies for her grandmother ＿＿＿.\n(A) ago  (B) now  (C) last night  (D) next week\n詳解：由過去式動詞 downloaded 可知，時間副詞應用表過去時間的 last night。ago 前須加一段時間，故不可選。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q040",
+    "type": "english_test",
+    "question": "(　　)Michael didn’t check his Instagram ＿＿＿, but now he checks it every day.\n(A) two days  (B) next week  (C) ago  (D) before\n詳解：由前句的 didn’t check 可知，時間副詞應用表過去時間的 before。ago 前須加一段時間，故不可選。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q041",
+    "type": "english_test",
+    "question": "(　　)A：What ______ you do after dinner?\nB：I ______ my mom do the dishes in the kitchen and then watched TV.\n(A) did; help　(B) do; helped\n(C) do; help　(D) did; helped\n詳解：由 watched TV 可知在談論過去發生的事，故兩空格皆用過去式。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q042",
+    "type": "english_test",
+    "question": "(　　)A：What did you and your brother do after school ＿＿＿?\nB：We ＿＿＿ at home.\n(A) last night; reads\n(B) an hour ago; reading\n(C) yesterday; read\n(D) now; are reading\n詳解：由問句的過去式助動詞 did 可知，時間副詞應選 yesterday，答句的動詞應用過去式。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q043",
+    "type": "english_test",
+    "question": "(　　)Cathy ＿＿＿ to the beach with her classmates yesterday.  They ＿＿＿ swimming there.\n(A) is going; are enjoying　(B) went; enjoy\n(C) goes; enjoyed　(D) went; enjoyed\n詳解：由 yesterday 可知，事件發生在昨天，故時態皆須用過去式，第一句用 went，第二句用 enjoyed。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q044",
+    "type": "english_test",
+    "question": "(　　)Todd ＿＿＿ the kid write a letter to Santa Claus when（當……時）everybody had lunch in the classroom.\n(A) helps　(B) helped　(C) help　(D) helping\n詳解：由 had 可知，是在談論過去的事情，故用過去式動詞 helped。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q045",
+    "type": "english_test",
+    "question": "(　　)A：＿＿＿ you get the computer?\nB：My father gave it to me.\n(A) Were  (B) What did  (C) Where did  (D) Did\n詳解：由答句 My father gave it to me. 可推知，問句問「電腦怎麼來的？」。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q046",
+    "type": "english_test",
+    "question": "(　　)A：Where ＿＿＿ you go yesterday?\nB：I ＿＿＿ with my brother at the beach.\n(A) do; swim　(B) did; swam\n(C) does; swam　(D) did; swim\n詳解：由時間副詞 yesterday 可知，應用過去式，且問句與答句時態應一致。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q047",
+    "type": "english_test",
+    "question": "(　　)Mary went to the movies with her friends ＿＿＿.\n(A) ago  (B) now  (C) last night  (D) next week\n詳解：由過去式動詞 went 可知，時間副詞應用表過去時間的 last night。ago 前須加一段時間，故不可選。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q048",
+    "type": "english_test",
+    "question": "(　　)A: ＿＿＿ video game is it?\nB: I have no idea.\n(A) Whose  (B) When  (C) What date  (D) Who\n",
+    "answer": "A"
+  },
+  {
+    "id": "q049",
+    "type": "english_test",
+    "question": "(　　)The tree ＿＿＿ short last year, but it’s tall now.\n(A) is  (B) was  (C) are  (D) were\n",
+    "answer": "B"
+  },
+  {
+    "id": "q050",
+    "type": "english_test",
+    "question": "(　　)I was a student at that school one year ＿＿＿.\n(A) ago  (B) before  (C) now  (D) then\n",
+    "answer": "A"
+  },
+  {
+    "id": "q051",
+    "type": "english_test",
+    "question": "(　　)A：Do you play video games every ______?\nB：Yes, I ______.\n(A) Monday; can　(B) Mondays; can\n(C) Monday; do　(D) Mondays; do\n詳解：用助動詞 do 問，就要用助動詞 do 回答，且答句為肯定，故用 do。every 後須接單數名詞。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q052",
+    "type": "english_test",
+    "question": "(　　)A：Jack and I are playing basketball in the park.  Are you coming to join us?\nB：Sorry, I ＿＿＿.  I ＿＿＿ do my homework first（首先）.\n(A) don’t; does　(B) can’t; must\n(C) don’t; can　(D) must; doesn’t\n詳解：can’t 表示「不能」，must 表示「必須」。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q053",
+    "type": "english_test",
+    "question": "(　　)I ＿＿＿ go to the gym after school, but my brother ＿＿＿ does.\n(A) often; often　(B) usually; usually\n(C) always; ×　(D) always; never\n詳解：but 連接兩個語意相反的句子，說話者「總是」在放學後去體育館，但弟弟「從未」這麼做，頻率副詞用 never。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q054",
+    "type": "english_test",
+    "question": "(　　)Rick：What’s wrong（怎麼了）with Ian? \nGreg：He’s late again.  He’s ＿＿＿ on time.\n(A) usually　(B) never　(C) sometimes　(D) often\n詳解：由前句「Ian 又遲到了」，可推知 Ian「從不」準時，頻率副詞用 never。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q055",
+    "type": "english_test",
+    "question": "(　　)Ivy：How often do you go to the street market?\nKyle：＿＿＿  Let’s go there this weekend.\n(A) One day.  (B) About two weeks.\n(C) In an early morning.  (D) Three times a week.\n詳解：how often 的問句在詢問「頻率」，而「數字＋time(s)＋a＋week」表示「在一週之內的次數」。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q056",
+    "type": "english_test",
+    "question": "(　　)Sara is going to（將要）be nineteen years old next Sunday, and tonight we are celebrating（慶祝）her \n＿＿＿ birthday.\n(A) ninth　(B) the ninth  (C) the nineteenth　(D) nineteenth\n詳解：今晚我們將慶祝她的「第十九個」生日，故選 (D)。又已有 her，故不須定冠詞 the。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q057",
+    "type": "english_test",
+    "question": "(　　)A：Who are ＿＿＿ students in the line（隊伍）?\nB：They’re Janet, Cherry, and Alisa.\n(A) first three　(B) three first\n(C) the three first　(D) the first three\n詳解：序數前須加上定冠詞 the，且同時表達數目和順序時，序數放在基數前，故選 (D)。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q058",
+    "type": "english_test",
+    "question": "(　　)Sean wrote a letter 　　　 me last week, and I wrote it back（回信）this morning.\n(A) to  (B) for  (C) with  (D) from\n詳解：由「我這個早上回信給他」可知，是 Sean 寫信「給」我，故選 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q059",
+    "type": "english_test",
+    "question": "(　　)A：Do you have an eraser?  I can’t find ＿＿＿.\nB：No, I don’t, but Ashley ＿＿＿.\n(A) my; does  (B) my; do  (C) mine; does  (D) mine; do\n詳解：第一格空格應填入所有格代名詞；而 B 的答句中，主詞 Ashley 為第三人稱單數，則須搭配助動詞 does，故選 (C)。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q060",
+    "type": "english_test",
+    "question": "(　　)This Wednesday is Linda’s ＿＿＿ birthday, and her parents are preparing a party for her.\n(A) eight　(B) twelve　(C) seventeenth　(D) twenty-three\n詳解：表達「幾歲的生日」時須用序數表示，故選 (C)。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q061",
+    "type": "english_test",
+    "question": "(　　)A：I want ＿＿＿ water.  How ＿＿＿ are they?\nB：NT $60.\n(A) some; many\n(B) two bottles of; much\n(C) much; many\n(D) a bottle of; much\n詳解：由答句中提及價錢，可推測問句為詢問價錢的句型，用 How much 表示；問句的主詞 they 表複數，可推測前方句子的量詞為複數量詞，故選 (B)。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q062",
+    "type": "english_test",
+    "question": "(　　)John：Where ＿＿＿ the cake?  \nZack：It ＿＿＿ on the table five minutes ago.\nJohn：Oh, no.  Cody ate（吃）it!\n(A) is; was  (B) was; is\n(C) is; is  (D) were; was\n詳解：第一格描述現在狀態，用現在式 be 動詞 is；由 five minutes ago 可知為描述過去狀態，第二格用過去式 be 動詞 was，故選 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q063",
+    "type": "english_test",
+    "question": "(　　)Liz：＿＿＿ you an art teacher before?\nJon：No, I ＿＿＿.\n(A) Was; wasn’t  (B) Was; weren’t\n(C) Were; weren’t  (D) Were; wasn’t\n詳解：第一句主詞為第二人稱，故使用過去式 be 動詞 were；第二句主詞為第一人稱單數，搭配過去式 be 動詞 wasn’t，故選 (D)。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q064",
+    "type": "english_test",
+    "question": "(　　)There ＿＿＿ a lot of fish in this lake（湖）before, but there ＿＿＿ any now.  I can only see trash in it.\n(A) are; weren’t  (B) were; wasn’t\n(C) were; aren’t  (D) was; isn’t\n詳解：由 before 可知第一格要用過去式 be 動詞，而由 now 可知第二格要用現在式 be 動詞，另由 a lot of fish 可知 fish 在此為複數名詞，故兩格皆要搭配複數 be 動詞，故選 (C)。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q065",
+    "type": "english_test",
+    "question": "(　　)Amy：I can’t believe it.  Is this a photo of Zack? \nDan：Yes, it is.  He ＿＿＿ short and thin at that time, but he is ＿＿＿ tall and strong（強壯的）now.\n(A) is; is  (B) was; was\n(C) was; is  (D) is; was\n詳解：由答句中的「他現在非常不一樣」可知，Zack 過去又矮又瘦，現在又高又壯，第一格描述過去狀態用 was，第二格描述現在狀態用 is，故選 (C)。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q066",
+    "type": "english_test",
+    "question": "(　　)Ray：What ______ Susan want to be when（當……時）she was a student?\nIan：She ______ to be a doctor.\n(A) did; wanted　(B) did; wants\n(C) does; wants　(D) does; wanted\n詳解：由 was a student 可知，是在談論過去的事，故問答句的時態皆用過去式，第一格用 did，第二格用 wanted。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q067",
+    "type": "english_test",
+    "question": "(　　)Kyle ______ his book and ______ Benson to Mrs. Huang’s office（辦公室）because（因為）she needed to talk to them. \n(A) closes; follows　(B) closed; follows\n(C) closes; followed　(D) closed; followed\n詳解：由 needed 可知事件已發生，故兩格時態皆用過去式。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q068",
+    "type": "english_test",
+    "question": "(　　)Dad ＿＿＿ the bathroom this morning, and ＿＿＿ very clean now.\n(A) cleans; it’s　(B) cleaned; it’s\n(C) cleans; it was　(D) cleaned; it was\n詳解：今天早上打掃過浴室，應用過去式，第一格填cleaned；表示現在很乾淨，用現在式，故第二格填 it’s。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q069",
+    "type": "english_test",
+    "question": "(　　)Evan：Didn’t Vincent visit Taitung last month?\nTracy：______, he ______.  He was really busy then.\n(A) Yes; did　(B) Yes; didn’t\n(C) No; did　(D) No; didn’t\n詳解：由 really busy then 可知，Vincent 上個月沒有造訪臺東；yes / no 的否定疑問句回答方式跟肯定一樣，故用 No, he didn’t.。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q070",
+    "type": "english_test",
+    "question": "(　　)Leon didn’t like cats ＿＿＿, but he ＿＿＿ two cats now.\n(A) now; have\n(B) before; has\n(C) on weekends; has\n(D) next Friday; have\n詳解：由 didn’t like 可知，前半句的時間副詞應用過去時間 before。後半句由 now可知，應用現在簡單式動詞 has。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q071",
+    "type": "english_test",
+    "question": "(　　)Grace：＿＿＿ Jay and Ken ＿＿＿ on the Internet last night?\nIvan：No, they watched TV.\n(A) Are; chatting  (B) Do; chatted\n(C) Were; chat  (D) Did; chat\n詳解：由答句的 watched，可知，問句應用過去簡單式。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q072",
+    "type": "english_test",
+    "question": "(　　)Mary：Did you study for the test last night?\nPhilip：Yes, I did.  I ______ until 3 a.m., so（所以）I ______ tired（疲累的）now.\n(A) studied; was　(B) study; was\n(C) studied; am　(D) study; am\n詳解：由 did 可知是指昨晚準備考試一事，故第一格用 studied；由 now 可知是指現在的狀態，故第二格用 am。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q073",
+    "type": "english_test",
+    "question": "(　　)Jason ______ exercised before（在……之前）he worked in the gym.  Now, he ______ after work every day.\n(A) never; exercised　(B) didn’t; exercised\n(C) doesn’t; exercises　(D) never; exercises\n詳解：由 worked 可知，第一句是在談論過去的事，故第一格用 never exercised；由 now 及 every day 可知是在講現在的事，故第二格用 exercises。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q074",
+    "type": "english_test",
+    "question": "(　　)A：How ＿＿＿ your holiday in Japan?\nB：It ＿＿＿ amazing.  I had a lot of fun.\n(A) did; was　(B) did; is\n(C) was; is　(D) was; was\n詳解：問「……如何」用 be 動詞，用 be 動詞問，就用 be 動詞回答，又前後時態須一致。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q075",
+    "type": "english_test",
+    "question": "(　　)Tina didn’t eat anything yesterday.  She ＿＿＿.\n(A) was busy  (B) kept warm  \n(C) collected trash  (D) poor\n詳解：由過去式 did 可知，須用過去式。又由語意可知應選 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q076",
+    "type": "english_test",
+    "question": "(　　)A：＿＿＿Thomas and Jerry happy yesterday evening?\nB：No, they ＿＿＿. \n(A) Was; weren’t  (B) Are; aren’t\n(C) Were; weren’t  (D) Do; don’t\n",
+    "answer": "C"
+  },
+  {
+    "id": "q077",
+    "type": "english_test",
+    "question": "(　　)A：I can’t believe it.  John won the race!  ＿＿＿ he practice before the race?   won 贏得\nB：Five days a week.\n(A) How often does  (B) When does\n(C) When did  (D) How often did\n",
+    "answer": "D"
+  },
+  {
+    "id": "q078",
+    "type": "english_test",
+    "question": "(　　)A：How ＿＿＿ your father go to work?\nB：He usually ＿＿＿ to the shoe factory.  When it’s rainy, he’ll go there by bus.\n(A) do; walk　(B) does; walks\n(C) is; is walking　(D) are; walking\n詳解：由上下文可知是在詢問 B 的父親如何去上班，由後句語意可知時態為現在簡單式，又因 he 是第三人稱單數，故選 (B)。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q079",
+    "type": "english_test",
+    "question": "(　　)Here are a plate of fried rice and a bowl of beef noodles.  ＿＿＿ do you want?\n(A) How　(B) What　(C) Whose　(D) Which\n詳解：由「這裡有一盤炒飯與一碗牛肉麵」兩種可供選擇，可知是問你想要「哪一個」，故選 (D)。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q080",
+    "type": "english_test",
+    "question": "(　　)At first, my restaurant’s business ＿＿＿ not very good, but now it’s doing quite well.\n(A) is　(B) was　(C) does　(D) did\n詳解：後半句提到「但現在進行地很好」，可推知前半句是講以前的狀況，故使用 be 動詞過去式。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q081",
+    "type": "english_test",
+    "question": "(　　)A：Do you and your friends exercise?\nB：Yes.  I ＿＿＿ sports every day, and they ＿＿＿, too.\n(A) do; don’t　(B) don’t; don’t\n(C) do; do　(D) don’t; do\n詳解：第一個 do 為動詞，意思為「做」；第二個 do 為助動詞，代替「做運動」這個動作。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q082",
+    "type": "english_test",
+    "question": "(　　)Ann ＿＿＿ hungry in the evening.  She ＿＿＿ some snacks（點心）at that time.\n(A) always is; always has\n(B) is always; always has\n(C) never is; has always\n(D) is never; always has\n詳解：always 與 never 皆為頻率副詞，須放在 be 動詞後或一般動詞前，且第一空格若選 is never，就表示 Ann 不會在那時候吃點心，第二空格應填 never has，但選項中都說她有吃，故用 always has。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q083",
+    "type": "english_test",
+    "question": "(　　)Sue：How many ＿＿＿ do you walk to school?\nTom：＿＿＿  My parents drive（開車載）me to school from Monday to Friday.\n(A) often; Never.\n(B) times a week; Never.\n(C) often; Five days a week.\n(D) times a week; Five days a week.\n詳解：由「我爸媽週一到週五都開車載我去上學」可知詢問的是「一週內有幾次走路上學」，第一個空格填 times a week，由 Tom 回答可知週一到週五都不是走路上學，第二個空格應選 Never.。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q084",
+    "type": "english_test",
+    "question": "(　　)Ivy visits（拜訪）her parents in Tainan ＿＿＿.  She visits them three times ＿＿＿.\n(A) seldom; once　(B) never; a year　(C) very often; a week　(D) then; a day\n詳解：頻率副詞 seldom 不可放句尾，故不選 (A)；頻率副詞 never 表示「不曾」，故 three times a year 為錯誤，故不選 (B)；時間副詞 then 用於過去式，故不選 (D)；頻率副詞 often 可放句尾，故選 (C)。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q085",
+    "type": "english_test",
+    "question": "(　　)One third of the students want to go on a trip（旅行）, but ＿＿＿ don’t.\n(A) two third  (B) two thirds  (C) one fourth  (D) one fourths\n詳解：句意為「三分之一的學生想要去旅行，三分之二的學生不想。」，當分子大於一時，分母要變成複數，故選 (B)。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q086",
+    "type": "english_test",
+    "question": "(　　)A：I didn’t bring（攜帶）my smartphone with ＿＿＿.\nB：Me ＿＿＿.  I forgot（忘了）to bring ＿＿＿.\n(A) me; either; my　(B) me; either; mine \n(C) mine; too; mine　(D) mine; also; my\n詳解：第一格要填入受格 me；由於 A 說的句子為否定句，故 B須回應 Me either 表示「我也沒有帶。」；根據語意，第三格應填入所有格代名詞 mine（= my smartphone）。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q087",
+    "type": "english_test",
+    "question": "(　　)A：Do we need ＿＿＿ drinks for the party?\nB：Yes, we need ＿＿＿ tea and juice.\n(A) any; some  (B) some; any  \n(C) a lot; much  (D) much; many\n詳解：疑問句中表示「一些」須用 any，若問句中肯定意味較濃厚，也可用 some；答句中表肯定可用 some 或 a lot of，故選 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q088",
+    "type": "english_test",
+    "question": "(　　)A：How much guava juice ＿＿＿ there on the table?\nB：There ＿＿＿ two glasses on it.\n(A) are; are　(B) are; is\n(C) is; are　(D) is; is\n詳解：問句中的 guava juice 為不可數名詞，第一個空格的 be 動詞要用單數的 is，而答句中的 glasses 是複數，be 動詞要用複數 are，故選 (C)。\n",
+    "answer": "C"
+  },
+  {
+    "id": "q089",
+    "type": "english_test",
+    "question": "(　　)A：＿＿＿ does Jean eat a day?\nB：She doesn’t eat a lot.  Two bowls of rice ＿＿＿ enough for her. \n(A) How much rice; are\n(B) How many rice; are\n(C) How many bowls of rice; is\n(D) How many bowl of rice; are\n詳解：rice 為不可數名詞，問「多少米飯」要用 How much rice；問「多少碗米飯」時，因為 bowl 為可數名詞，疑問詞則要用 How many；答句中主詞 Two bowls of rice 為複數，be 動詞用 are，故選 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q090",
+    "type": "english_test",
+    "question": "(　　)A：There ＿＿＿ a lot of fish in the pond（池塘）.  ＿＿＿ fish do you have?\nB：About sixty.\n(A) are; How many  (B) is; How much\n(C) is; How many  (D) are; How much\n詳解：fish 指魚的「數量、條數」時為可數名詞，且 fish 單複數同形。由問句第一句中的 a lot of fish 可知，池塘裡有許多條魚，fish 在此為複數，第一個空格填 be 動詞 are，第二個空格問數量要用 How many，故選 (A)。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q091",
+    "type": "english_test",
+    "question": "(　　)A：＿＿＿ people will（將會）come to this meeting?\nB：Fourteen.  \nA：Thanks.  I need to make everyone ＿＿＿.\n(A) How much; some tea\n(B) How much; tea\n(C) How many; cup of tea\n(D) How many; a cup of tea\n詳解：people 為可數名詞，故須搭配疑問詞 how many；而 tea 為不可數名詞，若要「泡給每人一杯茶」，則為 make everyone a cup of tea，故選 (D)。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q092",
+    "type": "english_test",
+    "question": "(　　)A：＿＿＿ hot milk do you want?\nB：One cup is enough, thanks.  By the way, ＿＿＿ you help me?\nA：Of course.  What can I do for you?\n(A) How much; do\n(B) How much; can\n(C) How many; do\n(D) How many; can\n詳解：由不可數名詞 milk 可知第一格要用 How much；由 What can I do for you? 可知第二格也要用助動詞 can 詢問，故選 (B)。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q093",
+    "type": "english_test",
+    "question": "(　　)A：＿＿＿ mice are there in the kitchen?\nB：＿＿＿.  Can you ＿＿＿ me get them away?\n(A) How much; A lot; help\n(B) How many; One; help to\n(C) How many; Two; help to\n(D) How many; Five; help\n詳解：由 mice（mouse 的複數形）可知，第一格要用 How many 詢問「多少」；由 them 可知數量不只一個，第二格可用 A lot (of mice)、Two 或 Five；由 can 可知，第三格要用原形動詞 help，而 help 的用法為「help＋人＋(to) V」，故選 (D)。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q094",
+    "type": "english_test",
+    "question": "(　　)Sue：＿＿＿ your brother a doctor ＿＿＿?\nTim：No, but he is now.  He works at the clinic（診所）next to the art museum.\n(A) Was; now\n(B) Isn’t; now\n(C) Were; before\n(D) Wasn’t; two years ago\n詳解：由「不，但他現在是。」可知，問句為過去式，your brother 為第三人稱單數主詞，故第一格可用 Was 或 Wasn’t，而第二格可用過去時間 two years ago 或 before，故選 (D)。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q095",
+    "type": "english_test",
+    "question": "(　　)Ted：＿＿＿ you at Uncle Tom’s house at nine yesterday morning?\nZoe：No, I was at school ＿＿＿.  There was a math test from nine to ten.\n(A) Was; then\n(B) Were; then\n(C) Wasn’t; at that time\n(D) Weren’t; two days ago\n詳解：由 yesterday morning 可知問答句皆用過去式，問句主詞為 you，故第一格可用 be 動詞 Were 或 Weren’t；第二格則可用 then 或 at that time 代替 yesterday morning，故選 (B)。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q096",
+    "type": "english_test",
+    "question": "(　　)Who ______ with you two hours ago, and what ______ you do?\n(A) is; do　(B) was; do\n(C) is; did　(D) was; did\n詳解：前句由 two hours ago 可知問過去時間，故第一格用 was；後句已有一般動詞 do，故第二格用助動詞 did。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q097",
+    "type": "english_test",
+    "question": "(　　)Nicolas：＿＿＿ do Mr. and Mrs. White go abroad on vacation?\nYvonne：＿＿＿, about twice a year.  But they take a trip to Nantou or Taitung from time to time.\n(A) How; Always\n(B) How often; Never\n(C) How; They seldom do\n(D) How often; Not very often\n詳解：由 about twice a year（大約一年兩次）可知，兩空格皆要填入與頻率相關的字詞，第一格要填 How often（多常）；第二格可填 Not very often 或 They seldom do 以符合大約一年兩次的說法。\n",
+    "answer": "D"
+  },
+  {
+    "id": "q098",
+    "type": "english_test",
+    "question": "(　　)One third of the students joined the summer camp today, but ______ didn’t.\n(A) two third  (B) two thirds  (C) one forth  (D) one fourths\n詳解：句意為「三分之一的學生今天參加了夏令營，但三分之二的學生沒參加。」，當分子大於一時，分母要變成複數。\n",
+    "answer": "B"
+  },
+  {
+    "id": "q099",
+    "type": "english_test",
+    "question": "(　　)There are ______ floors in this building, and my uncle lives on the ______ floor.\n(A) twenty; twentieth  (B) twentieth; twentieth\n(C) twenty; twenty  (D) twentieth; twenty\n詳解：當說明總共有幾層樓時，用基數；但表達是第幾層樓時，須用序數。\n",
+    "answer": "A"
+  },
+  {
+    "id": "q100",
+    "type": "english_test",
+    "question": "(　　)Tina just bought a liter（公升）of water, but she dropped the bottle on the floor accidentally（意外地）.  Now, there is only ＿＿＿ water in the bottle, and there is ＿＿＿ water on the floor.\n(A) a lot of; a lot of\n(B) a few; some\n(C) any; a little\n(D) a little; a lot of\n詳解：water 為不可數名詞，要表示「一點點」，則搭配 a little，要表示「很多」，則搭配 a lot of，故選 (D)。\n",
+    "answer": "D"
+  }
+]

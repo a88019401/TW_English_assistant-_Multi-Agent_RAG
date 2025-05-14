@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+  <head>
+    <meta charset="UTF-8" />
+    <title>仿 ChatGPT 對話介面</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        max-width: 700px;
+        margin: auto;
+        padding: 2rem;
+        background: #f7f7f7;
+      }
+      #chatBox div {
+        margin: 10px 0;
+        padding: 10px;
+        border-radius: 8px;
+      }
+      .user {
+        background: #d2e3fc;
+        text-align: right;
+      }
+      .bot {
+        background: #e2e2e2;
+        text-align: left;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>AI 助教對話介面</h1>
+    <div id="chatBox"></div>
+    <input
+      id="input"
+      type="text"
+      placeholder="輸入任務問題，如：banana 是什麼意思"
+      style="width: 70%"
+      onkeypress="if(event.key==='Enter') sendMessage()" />
+    <button type="button" onclick="sendMessage()">送出</button>
+
+    <!-- ✅ 建議只保留這個 -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  </body>
+</html>
